@@ -1,7 +1,0 @@
-
-W
-java:S1854":Remove this useless assignment to local variable "client".(·¶¢­8ÓŞ–œ×1
-H
-java:S1481"+Remove this unused "client" local variable.(·¶¢­8ÖŞ–œ×1
-L	java:S106	"+Replace this use of System.out by a logger.(·š½ûüÿÿÿÿ8×Ş–œ×1
-G	java:S106"+Replace this use of System.out by a logger.(òñ¢8ØŞ–œ×1
