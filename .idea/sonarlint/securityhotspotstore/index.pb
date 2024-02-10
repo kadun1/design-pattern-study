@@ -92,3 +92,9 @@ tsrc/main/java/com/study/designpatterns/_01_creational_patterns/_03_abstract_fac
 msrc/main/java/com/study/designpatterns/_01_creational_patterns/_03_abstract_factory/_03_java/ShipFactory.java,c\5\c527f196eb02665a127a454bdfa9a0758d0e10b8
 •
 esrc/main/java/com/study/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/Ship.java,2\7\27962cda6a899cadfbb2830e055bce2ca5537709
+
+^src/main/java/com/study/designpatterns/_01_creational_patterns/_04_builder/_01_before/App.java,1\3\13cef46232b45efb743f3738981182d7e6505eea
+“
+csrc/main/java/com/study/designpatterns/_01_creational_patterns/_04_builder/_01_before/TourPlan.java,d\6\d6660a7de9bb7edce0eb6673805c10d8ce5e9801
+•
+esrc/main/java/com/study/designpatterns/_01_creational_patterns/_04_builder/_01_before/DetailPlan.java,4\9\49d4440ba657b97f2a8c88131327ae22ae1142a8
