@@ -56,3 +56,9 @@ fsrc/main/java/com/study/designpatterns/_01_creational_patterns/_04_builder/_03_
 fsrc/main/java/com/study/designpatterns/_01_creational_patterns/_04_builder/_03_java/LombokExample.java,2\2\225763e1e978cf7b2b5e6a41b6ef3256570ac0ea
 ˜
 hsrc/main/java/com/study/designpatterns/_01_creational_patterns/_02_factory_method/_01_before/Client.java,d\3\d3e39afc6baff5594761b981a22622d6da20902c
+
+`src/main/java/com/study/designpatterns/_01_creational_patterns/_05_prototype/_01_before/App.java,9\9\996de8ff98eca6b25e3587df3359f4095587c506
+˜
+hsrc/main/java/com/study/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubIssue.java,6\9\694fbeefa252cbd7d6b4a954689218fa97489919
+
+msrc/main/java/com/study/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubRepository.java,4\c\4c5c6f026edeb7db553534a205333154f5b364dd
