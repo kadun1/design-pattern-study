@@ -1,4 +1,4 @@
-package com.study.designpatterns._01_creational_patterns._05_prototype._01_before;
+package com.study.designpatterns._01_creational_patterns._05_prototype._02_after;
 
 public class App {
 
