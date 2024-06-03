@@ -100,3 +100,25 @@ xsrc/main/java/com/study/designpatterns/_01_creational_patterns/_03_abstract_fac
 hsrc/main/java/com/study/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubIssue.java,6\9\694fbeefa252cbd7d6b4a954689218fa97489919
 
 msrc/main/java/com/study/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubRepository.java,4\c\4c5c6f026edeb7db553534a205333154f5b364dd
+ 
+psrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/LoginHandler.java,1\b\1b06e22d9b07bf31a3125b62fe0d5263f390e1e7
+Ÿ
+osrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetails.java,a\1\a151f248c5f2c8be3b820b3687f021a62ab1d1c9
+¦
+vsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetailsService.java,3\c\3cc2e7fd4a26574d17ee6e74ff8fd6bd07e4fb77
+’
+bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/Accoout.java,5\3\5399cb07c104e2e59f9d3a1a115f960859e935cb
+™
+isrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/AccountService.java,e\e\ee86a229dd4eac219eada8b0febb675288451abb
+’
+bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/Account.java,8\5\85389017c00105bac9b3ff27d840cc1943046831
+£
+ssrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetailsService.java,1\c\1cfc8b75dd5e30ef27c5b1d19e003a16304b2465
+œ
+lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetails.java,4\5\455042c565fcc147f44698b92871d6f5c25cd52e
+
+]src/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/App.java,3\4\3459af2af78ca287333bc122931c2f35e27ec2b2
+‘
+asrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/Account.java,7\f\7fc3c2345b68470607661dbc79ce2fa60cb1eb94
+˜
+hsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountService.java,4\6\46f4d9b37090e239b2a73935c3662e59e902b3c5
