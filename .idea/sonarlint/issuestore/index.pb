@@ -106,8 +106,6 @@ psrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_
 osrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetails.java,a\1\a151f248c5f2c8be3b820b3687f021a62ab1d1c9
 ¦
 vsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetailsService.java,3\c\3cc2e7fd4a26574d17ee6e74ff8fd6bd07e4fb77
-’
-bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/Accoout.java,5\3\5399cb07c104e2e59f9d3a1a115f960859e935cb
 ™
 isrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_01_before/AccountService.java,e\e\ee86a229dd4eac219eada8b0febb675288451abb
 ’
@@ -122,3 +120,9 @@ lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_
 asrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/Account.java,7\f\7fc3c2345b68470607661dbc79ce2fa60cb1eb94
 ˜
 hsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountService.java,4\6\46f4d9b37090e239b2a73935c3662e59e902b3c5
+–
+fsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_03_java/AdapterInJava.java,4\b\4bc2688192ee561e30110cfac20b09e952326c43
+9
+	input.txt,4\3\43128ead2f5bfaabf1ba2cb52e86d461e0117c1a
+˜
+hsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_03_java/AdapterInSpring.java,b\2\b2d64a07eb82ec3777cc5b2fe8223ac4cf18a379
