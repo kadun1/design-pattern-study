@@ -126,3 +126,17 @@ fsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_03_
 	input.txt,4\3\43128ead2f5bfaabf1ba2cb52e86d461e0117c1a
 �
 hsrc/main/java/com/study/designpatterns/_02_structural_patterns/_06_adapter/_03_java/AdapterInSpring.java,b\2\b2d64a07eb82ec3777cc5b2fe8223ac4cf18a379
+�
+bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/Champion.java,0\c\0ce7cfac052dce5c34b7ff5da358a05107461b15
+�
+csrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/KDA아리.java,b\1\b140cb80b3205e28f6ce82a753f7fee27e80384a
+�
+fsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/KDA아칼리.java,3\8\38071fabe30c2c1a2ea4008001d32b510c899335
+�
+fsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/KDA카이사.java,6\6\66d9c1a34c3f7ea9f7a8097ac55ddcdc2d4bbd31
+�
+lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/PoolParty카이사.java,a\8\a885c6c1191d517931a6981f363dd5ea58df59e0
+�
+isrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/PoolParty아리.java,b\d\bd4fc3a5d0e020fa7d006391c3b6bb03a8ae8d32
+�
+lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/PoolParty아칼리.java,4\a\4a73559acfda4acd299c9520c7b8d85bc12a3b55
