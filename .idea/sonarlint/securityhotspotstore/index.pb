@@ -140,3 +140,21 @@ lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_b
 isrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/PoolPartyì•„ë¦¬.java,b\d\bd4fc3a5d0e020fa7d006391c3b6bb03a8ae8d32
 œ
 lsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/PoolPartyì•„ì¹¼ë¦¬.java,4\a\4a73559acfda4acd299c9520c7b8d85bc12a3b55
+™
+isrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/ì •ë³µìì•„ë¦¬.java,f\2\f290e0453cab8ddba31fdf7c50786be57222fb95
+
+]src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_01_before/App.java,1\5\152469ac3d46009cf402ae54159fb4b90172dfd2
+˜
+hsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/DefaultChampion.java,5\2\52a2f233c8db2dca6878e7edc3925db8c3c3caa0
+
+]src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/Skin.java,e\2\e2058909fa2b6b6626c7e74834848dc967deb014
+
+_src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/ì•„ë¦¬.java,4\9\499854ba79f5a60236f4f5287f72a1a22859a27c
+’
+bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/ì•„ì¹¼ë¦¬.java,f\5\f53e8147deb0b2bcb0a7c3e4e377420028438c3f
+Œ
+\src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/KDA.java,e\8\e80a99cd133fba09494c6aeaed5e745c9628d9c6
+’
+bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/PoolParty.java,5\b\5b4c9b720a6f7a279adbca45e6557505c35a24c2
+Œ
+\src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/App.java,9\1\91657e3a2db649b87984a3547bf5b6c4be113b33
