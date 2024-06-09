@@ -158,3 +158,9 @@ bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_a
 bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/PoolParty.java,5\b\5b4c9b720a6f7a279adbca45e6557505c35a24c2
 Œ
 \src/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_02_after/App.java,9\1\91657e3a2db649b87984a3547bf5b6c4be113b33
+–
+fsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_03_java/BridgeInSpring.java,f\5\f5f72988f72ae6c8321cbcdd89d190e440fa2e4a
+“
+csrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_03_java/JdbcExample.java,4\a\4a0fe999f8b76f08ab1b665035bb880e21f5bb02
+”
+dsrc/main/java/com/study/designpatterns/_02_structural_patterns/_07_bridge/_03_java/Slf4jExample.java,c\3\c3f55531480db104866dcd7419693e2f198f67db
