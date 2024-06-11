@@ -1,8 +1,6 @@
 package com.study.designpatterns._02_structural_patterns._08_composite._03_java;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class SwingExample {
     public static void main(String[] args) {
