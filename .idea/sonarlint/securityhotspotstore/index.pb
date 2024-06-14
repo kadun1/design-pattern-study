@@ -180,3 +180,11 @@ _src/main/java/com/study/designpatterns/_02_structural_patterns/_08_composite/_0
 bsrc/main/java/com/study/designpatterns/_02_structural_patterns/_08_composite/_02_after/Client.java,7\3\73ba6f678a331ce540b2a842a48c3121e82274ea
 —
 gsrc/main/java/com/study/designpatterns/_02_structural_patterns/_08_composite/_03_java/SwingExample.java,7\b\7bb4b36d35d4511844f97adc4a5732177599ebba
+“
+csrc/main/java/com/study/designpatterns/_02_structural_patterns/_09_decorator/_01_before/Client.java,6\d\6d9ade2c930cb8160b35b079a2f50e6af6844051
+¨
+xsrc/main/java/com/study/designpatterns/_02_structural_patterns/_09_decorator/_01_before/SpamFilteringCommentService.java,f\e\fefcabe0d8fb5d021fb0f0401db26e58c3b9b922
+£
+ssrc/main/java/com/study/designpatterns/_02_structural_patterns/_09_decorator/_01_before/TrimmingCommentService.java,4\5\4569110485032d92c4a0f9743c0b829b155a0e62
+›
+ksrc/main/java/com/study/designpatterns/_02_structural_patterns/_09_decorator/_01_before/CommentService.java,4\d\4df58fd400aa20d6ef149ba1ee9fb7a0fb15918d
