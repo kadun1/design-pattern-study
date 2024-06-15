@@ -4,6 +4,10 @@ public class Client {
 
     private CommentService commentService;
 
+    private boolean enabledSpamFilter;
+
+    private boolean enabledTrimming;
+
     public Client(CommentService commentService) {
         this.commentService = commentService;
     }
