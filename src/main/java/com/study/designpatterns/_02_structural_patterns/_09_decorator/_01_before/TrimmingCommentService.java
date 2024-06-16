@@ -1,6 +1,6 @@
 package com.study.designpatterns._02_structural_patterns._09_decorator._01_before;
 
-public class TrimmingCommentService extends CommentService{
+public class TrimmingCommentService extends CommentService {
     @Override
     public void addComment(String comment) {
         super.addComment(trim(comment));
