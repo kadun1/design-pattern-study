@@ -16,11 +16,11 @@ public class DecoratorInJava {
         List books = Collections.checkedList(list, Book.class);
 
         list.add(new Item());
-//        books.add(new Item()); // error
+        books.add(new Item()); // error
 
         Collections.synchronizedCollection(list);
         List unmodifiableList = Collections.unmodifiableList(list);
-//        unmodifiableList.add(new Book()); // error
+        unmodifiableList.add(new Book()); // error
 
         // 서블릿 요청 또는 응답 랩퍼
         HttpServletRequestWrapper requestWrapper;
