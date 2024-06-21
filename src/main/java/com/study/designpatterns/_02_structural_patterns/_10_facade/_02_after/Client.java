@@ -10,6 +10,8 @@ public class Client {
         emailMessage.setTo("kaduns");
         emailMessage.setSubject("This is the Subject Line!");
         emailMessage.setText("This is actual message");
+        emailMessage.setCc("cc");
+        emailMessage.setBcc("bcc");
         sender.sendEmail(emailMessage);
     }
 }
