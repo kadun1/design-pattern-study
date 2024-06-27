@@ -3,8 +3,8 @@ package com.study.designpatterns._03_behavioral_patterns._13_chain_of_responsibi
 public class Client {
     public static void main(String[] args) {
         Request request = new Request("무궁화 꽃이 피었습니다.");
-//        RequestHandler requestHandler = new AuthRequestHandler();
-        RequestHandler requestHandler = new LoggingRequestHandler();
+        RequestHandler requestHandler = new AuthRequestHandler();
+//        RequestHandler requestHandler = new LoggingRequestHandler();
         requestHandler.handler(request);
     }
 }
